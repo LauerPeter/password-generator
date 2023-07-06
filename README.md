@@ -35,5 +35,6 @@ N/A
 https://lauerpeter.github.io/password-generator/
 
 ## screenshot
-![Password Generator - Google Chrome 7_5_2023 4_14_05 PM](https://github.com/LauerPeter/password-generator/assets/135652706/40cf97a0-a51a-428e-9ef1-54273ac637ba)
+![Password Generator - Google Chrome 7_6_2023 5_59_55 PM](https://github.com/LauerPeter/password-generator/assets/135652706/4adaea8e-79ac-47d2-9d10-11c62d531775)
+
 
