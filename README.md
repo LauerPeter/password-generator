@@ -2,7 +2,7 @@
 3rd homework assignment. This site will create a password for you. The password is generated based off your choosing of characters between 8-128 as well as, symbols, numbers, special, and upper and lower case characters. 
 
 ## Description 
-Many problems with functionality. I plan to have this updated by 7/6/23 in the evening. 
+updated 7/6/23 for better functionality. 
 
 
 ## Installation
