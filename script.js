@@ -1,4 +1,6 @@
 // Assignment Code
+
+//variables
 var generateBtn = document.querySelector("#generate");
 
 
@@ -9,25 +11,25 @@ var characterNumeric = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"] ;
 
 function generatePassword() {
   var passwordLength = prompt("Please enter a number of characters for your password between 8-128");
-
+//if the user chooses an invalid character length then a prompt appears
   if (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
     alert("Password must be a valid number between 8-128")
     return
   }
-
+// users prompts for password 
   var includeUpper = confirm("Would you like to include upper case characters in your password?");
   var includeLower = confirm("Would you like to include lower case characters in your password?");
   var includeSpecial = confirm("Would you like to include special characters in your password?");
   var includeNumeric = confirm("Would you like to include numbers in your password?");
   console.log (passwordLength, includeLower, includeUpper, includeSpecial, includeNumeric)
-
+// if statement if user chooses all false
   if (includeUpper === false && includeLower === false && includeSpecial === false && includeNumeric === false){
     alert("You must select at least one character to include in your password.")
     return
   }
 
   var password = []
-
+//if statements for all true
   if (includeUpper === true){
     password = password.concat(characterUpper)
   }
@@ -43,20 +45,15 @@ function generatePassword() {
 
   console.log(password)
   var finalPassword = ""
-
+//generates random password with users prompts
   for (i = 0; i < passwordLength; i++){
     var randomIndex = Math.floor(Math.random() * password.length)
     finalPassword += password[randomIndex]
   }
   console.log(finalPassword)
-
+//returns final password on screen
   return finalPassword
 }
-
-
-
-
-
 
 
 // Write password to the #password input
@@ -74,8 +71,6 @@ generateBtn.addEventListener("click", writePassword);
 
 
   
-//Getting help with tutor on this assignment. turning in what I have now and will end up re-submitting this when I have a better understanding
-
   
   
 
