@@ -8,13 +8,17 @@ With just a few clicks, you can have a strong and unique password ready to safeg
 
 ## Features
 
-Customizable Passwords: Choose the length of your password, anywhere from 8 to 128 characters.
+- Customizable Passwords: Choose the length of your password, anywhere from 8 to 128 characters.
 
-Diverse Character Sets: Tailor your password to your security needs by including symbols, numbers, special characters, as well as uppercase and lowercase letters.
+- Diverse Character Sets: Tailor your password to your security needs by including symbols, numbers, special characters, as well as uppercase and lowercase letters.
 
 ## Installation
 
 There are no installation requirements for this website!
+
+## Technologies 
+
+- HTML, CSS, JavaScript
 
 ## Usage 
 Generates a unique password just for you. 
