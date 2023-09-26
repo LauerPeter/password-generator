@@ -1,35 +1,27 @@
 # password-generator
-3rd homework assignment. This site will create a password for you. The password is generated based off your choosing of characters between 8-128 as well as, symbols, numbers, special, and upper and lower case characters. 
+
+Are you tired of coming up with secure passwords on your own? Look no further. The Password Generator is here to make your digital life safer and more convenient.
 
 ## Description 
-updated 7/6/23 for better functionality. 
 
-
-## Installation
-
-N/A
-
-## Usage 
-N/A
-
-## Credits
-
-N/A
-
-## License
-
-MIT license - refer to LICENSE in repo
-
-## Badges
-
-N/A
+With just a few clicks, you can have a strong and unique password ready to safeguard your accounts. No more struggling to create complex passwords or worrying about security breaches.
 
 ## Features
 
-N/A
+Customizable Passwords: Choose the length of your password, anywhere from 8 to 128 characters.
 
-## How to Contribute
-N/A
+Diverse Character Sets: Tailor your password to your security needs by including symbols, numbers, special characters, as well as uppercase and lowercase letters.
+
+## Installation
+
+There are no installation requirements for this website!
+
+## Usage 
+Generates a unique password just for you. 
+
+## License
+
+MIT license
 
 ## links
 https://lauerpeter.github.io/password-generator/
