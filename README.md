@@ -18,7 +18,9 @@ Generates a unique password just for you.
 
 ## Technologies 
 
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Installation
 
@@ -26,7 +28,7 @@ There are no installation requirements for this website!
 
 ## License
 
-MIT license
+- MIT license
 
 ## links
 https://lauerpeter.github.io/password-generator/
