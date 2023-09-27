@@ -1,13 +1,13 @@
-// Assignment Code
+
 
 //variables
+
 var generateBtn = document.querySelector("#generate");
-
-
 var characterLower = ["a", "b", "c", "d", "e", "f","g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"] ;
 var characterUpper = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"] ;
 var characterSpecial = ["!", "@", ")", "$", "%", "^", "&", "*", "(", "#"] ;
 var characterNumeric = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"] ;
+
 
 function generatePassword() {
   var passwordLength = prompt("Please enter a number of characters for your password between 8-128");
