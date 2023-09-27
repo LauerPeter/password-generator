@@ -12,16 +12,17 @@ With just a few clicks, you can have a strong and unique password ready to safeg
 
 - Diverse Character Sets: Tailor your password to your security needs by including symbols, numbers, special characters, as well as uppercase and lowercase letters.
 
-## Installation
+## Usage 
 
-There are no installation requirements for this website!
+Generates a unique password just for you. 
 
 ## Technologies 
 
 - HTML, CSS, JavaScript
 
-## Usage 
-Generates a unique password just for you. 
+## Installation
+
+There are no installation requirements for this website!
 
 ## License
 
